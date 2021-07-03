@@ -1,0 +1,2 @@
+# SEVENBFOUR
+We are an app to share your travel records and record daily life. Users can share their daily lives by adding shared content and adding friends. It is still in the development stage. The current interface is mainly to test and adjust the layout of the homepage and the distribution of the homepage function modules. We need to make an app that is eye-catching so that everyone will like it. If you encounter problems during the test, please contact me.
